@@ -1,0 +1,20 @@
+{
+  "name": "maskinc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hualoqueros/maskinc.git"
+  },
+  "version": "1.0.0",
+  "description": "Masking json with aliasing you key",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "json",
+    "masking",
+    "json-maskin"
+  ],
+  "author": "samudra.arenza@gmail.com",
+  "license": "ISC"
+}
